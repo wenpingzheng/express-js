@@ -1,0 +1,9 @@
+{
+	"name": "hello-world",
+	"description":"xxx",
+	"version":"0.0.1",
+	"dependencies":{
+		"express":"4.x",
+		"express-handlebars":"*"
+	}
+}
